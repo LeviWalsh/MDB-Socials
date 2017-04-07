@@ -1,4 +1,4 @@
-# Event Share
+# MDB Socials
 
 A Social App created to post events with images and short descriptions. Uses Firebase to connect users and store all the information about each social.
 
